@@ -12,9 +12,9 @@ Mini-guia rapida
   - [Sobre git](#sobre-git)
     - [Cuándo usar git](#cuándo-usar-git)
     - [Cuándo no usar git](#cuándo-no-usar-git)
-    - [Qué es git?](#qué-es-git)
-    - [Qué es un repositorio](#qué-es-un-repositorio)
-    - [Cómo funciona](#cómo-funciona)
+    - [¿Qué es git?](#qué-es-git)
+    - [¿Qué es un repositorio?](#qué-es-un-repositorio)
+    - [¿Cómo funciona?](#cómo-funciona)
     - [Partes principales](#partes-principales)
     - [Servidores y repositorios remotos](#servidores-y-repositorios-remotos)
     - [Buenas preacticas de Git](#buenas-preacticas-de-git)
@@ -406,7 +406,7 @@ Revierte modificaciones no confirmadas (sin commit) en el directorio de trabajo 
 
 - (archivo_1 archivo_2) Puedes restaurar varios archivos a la vez simplemente listándolos.
 
-- (--source ) Permite actualziar el contenido de un archivo desde un punto específico de la historia (un commit, una rama o un tag) y traerlo al directorio de trabajo actual. [git restore --source nombre_rama nombre_archivo]
+- (--source ) Permite actualziar el contenido de un archivo desde un punto específico de la historia (un commit, una rama o un tag) y traerlo al directorio de trabajo actual. [git restore --source nombre_rama -- nombre_archivo/carpeta ]
 
 - (--staged nombre_archivo) Desmarca o baja un archivo del [area de staging](#staged) (revierte el comando [git add](#git-add)).
 
