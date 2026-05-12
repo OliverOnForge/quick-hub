@@ -1,2 +1,12 @@
+
 # quick-hub
-A multi-topic reference hub for fast lookups. From code syntax to technical workflows, everything organized in one place. 
+
+Un centro de referencia multitemático para consultas rápidas. Desde sintaxis de código hasta flujos de trabajo técnicos, todo organizado en un mismo lugar.
+
+## Estructura del Repositorio
+
+- Lenguajes de programacion
+
+- Git y github
+
+- Vs Code
