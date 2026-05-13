@@ -5,11 +5,19 @@
 
 ## Indice
 
--[]
+- [Resumen de librerias de python](#resumen-de-librerias-de-python)
+  - [Indice](#indice)
+  - [Numpy](#numpy)
+  - [Jupyter](#jupyter)
+  - [Flask](#flask)
 
 ---
 
-Flask
+## Numpy
+
+## Jupyter
+
+## Flask
 
 > Libreria para crear apis de forma rapida y simple (no ideal para alto rendimiento)
 >
@@ -18,5 +26,3 @@ Flask
 Descargar Flask:
 
 - (pip install Flask)
-
-

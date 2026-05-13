@@ -1,9 +1,9 @@
 
 # Mini-guia de python
 
-https://automatetheboringstuff.com/
+<https://automatetheboringstuff.com/>
 
-https://ellibrodepython.com/
+<https://ellibrodepython.com/>
 
 ---
 
@@ -80,6 +80,20 @@ https://ellibrodepython.com/
     - [is numeric](#is-numeric)
   - [Match](#match)
   - [operador ternario](#operador-ternario)
+  - [Funcionaes llamada](#funcionaes-llamada)
+  - [callback](#callback)
+  - [retornar funciones](#retornar-funciones)
+  - [Closures](#closures)
+  - [Decoradores](#decoradores)
+  - [Docstrings](#docstrings)
+  - [Clases](#clases)
+  - [Atributos dinmicos](#atributos-dinmicos)
+  - [metodo init](#metodo-init)
+  - [Metodtoos](#metodtoos)
+  - [Propieties](#propieties)
+  - [herencia](#herencia)
+  - [Sobreescritura de metodos](#sobreescritura-de-metodos)
+  - [Herencia multiple](#herencia-multiple)
 
 ---
 
@@ -154,7 +168,6 @@ Son bloques de texto que python ignora a la hora de ejecutar el codigo, esto per
 
 - [ sep='-'] editar el separador de variables
 
-
 ## Tipos de datos I
 
 Python acepta tres tipos de datos principales
@@ -196,7 +209,6 @@ La puedes usar cualquiera sin problema, la idea de tener dos formas de hacerlo e
 ### fortmat {}
 
 ### f string
-
 
 ## Operaciones numericas basicas
 
@@ -419,7 +431,6 @@ Ejemplos:
   Codigo: edad_ana > edad_pepe
   Resultado: False
 
-
 ## Tipos de datos II
 
 ## Estructuras de datos
@@ -521,7 +532,6 @@ primer_valor, *_, ultimo_valor = tupla_numeros
 
 ## zip
 
-
 ## Diccionarions
 
 pares clave valor
@@ -560,9 +570,6 @@ Los valores booleanos en python tienen muñliples representaciones, siendo false
 De forma general cualquier valore que no sea False es conciderado como True:
 
 - **True:** " ", 'a', 1, -1, 1.0, -1.0, ["a"], (1), {"elemento": 1}
-
-
-
 
 ## Longitud
 
@@ -704,7 +711,6 @@ valor = True
 mesage = 'si es verdadero' if value == true else 'si es falso'
 ~~~
 
-
 ## Funcionaes llamada
 
 ## callback
@@ -712,6 +718,7 @@ mesage = 'si es verdadero' if value == true else 'si es falso'
 ## retornar funciones
 
 ## Closures
+
 ## Decoradores
 
 ## Docstrings
@@ -731,4 +738,3 @@ mesage = 'si es verdadero' if value == true else 'si es falso'
 ## Sobreescritura de metodos
 
 ## Herencia multiple
-
