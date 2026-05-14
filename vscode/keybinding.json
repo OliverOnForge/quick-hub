@@ -1,0 +1,13 @@
+
+{
+
+{
+"key": "alt+c",
+"command": "editor.action.insertSnippet",
+"when": "editorTextFocus && editorLangId == 'markdown'",
+"args": {
+"name": "Code block"
+}
+}
+
+}
